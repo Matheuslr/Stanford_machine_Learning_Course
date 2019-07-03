@@ -1,0 +1,9 @@
+# Created by Octave 4.2.2, Mon Mar 11 16:50:22 2019 -03 <matheus@matheus>
+# name: ans
+# type: diagonal matrix
+# rows: 5
+# columns: 5
+ans = eye(5);
+print ans;
+
+
